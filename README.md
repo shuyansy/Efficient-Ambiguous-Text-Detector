@@ -1,7 +1,6 @@
 <div align="center">   
   
 # Perceiving Ambiguity and Semantics without Recognition: An Efficient and Effective Ambiguous Scene Text Detector
-[![Paper]([https://img.shields.io/badge/paper-arXiv%3A2007.00151-green)](https://arxiv.org/abs/2311.06668](https://dl.acm.org/doi/10.1145/3581783.3612383))
 
 </div>
 
